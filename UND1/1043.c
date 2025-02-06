@@ -1,5 +1,5 @@
-// 
-//
+//Developed by: @jtfrl
+//Beecrowd: n. 1043
 #include <stdio.h>
 int main() {
 	double A, B, C, D, E, F;
@@ -25,18 +25,18 @@ int main() {
 	if(A>=D){
 	printf("NAO FORMA TRIANGULO\n");
 	}//cadeia de verificação de outros casos:
-	else{
-    	if(F==E){
-    	printf("TRIANGULO RETANGULO\n");
-    	}if(F>E){
-    	printf("TRIANGULO OBTUSANGULO\n");
-    	} if(F<E){
-    	printf("TRIANGULO ACUTANGULO\n");
-    	} if(A == B&&B == C){
-    	printf("TRIANGULO EQUILATERO\n");
-    	}else if(A == B || B == C || A == C){
-    	printf("TRIANGULO ISOSCELES\n");
-    	}
+		else{
+		    	if(F==E){
+		    	printf("TRIANGULO RETANGULO\n");
+		    	}if(F>E){
+		    	printf("TRIANGULO OBTUSANGULO\n");
+		    	} if(F<E){
+		    	printf("TRIANGULO ACUTANGULO\n");
+		    	} if(A == B&&B == C){
+		    	printf("TRIANGULO EQUILATERO\n");
+			    	}else if(A == B || B == C || A == C){
+			    	printf("TRIANGULO ISOSCELES\n");
+	    	}
 	}
 return 0;
 }
