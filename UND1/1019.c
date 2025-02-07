@@ -1,5 +1,5 @@
 //Developed by: @jtfrl
-//Beecrowd: n. 1176
+//Beecrowd: n. 1019
 
 #include <stdio.h>
 #include <math.h>
