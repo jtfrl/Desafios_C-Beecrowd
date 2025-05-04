@@ -4,8 +4,7 @@ Códigos feitos para a disciplina de ITP no semestre de 2024.2 no IMD/UFRN. Todo
 
 ## Como citar
 
-```
-bibtex
+``` bibtex
 @Desafios_C-Beecrowd{jtfrl2025,
   author       = {ROCHA, Jefferson Tafarel F.},
   title        = {Desafios_C-Beecrowd},
